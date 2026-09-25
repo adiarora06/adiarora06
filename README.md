@@ -6,6 +6,12 @@ AI engineer at Marriott International building reliable multi-agent systems, LLM
 
 ## Selected Work
 
+### [RepoRipple](https://github.com/adiarora06/RepoRipple)
+
+A local-first change-impact analyzer that traces reverse dependencies, recommends tests, flags risky paths, and produces deterministic context for engineers and coding agents.
+
+[Source](https://github.com/adiarora06/RepoRipple)
+
 ### [TokenOptimizer](https://github.com/adiarora06/TokenOptimizer)
 
 An adaptive LLM workspace with streaming execution, deterministic acceptance gates, token analytics, and inspectable agent traces.
