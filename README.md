@@ -10,7 +10,7 @@ AI engineer at Marriott International building reliable multi-agent systems, LLM
 
 A local-first change-impact analyzer that traces reverse dependencies, recommends tests, flags risky paths, and produces deterministic context for engineers and coding agents.
 
-[Case study](https://www.adiarora.dev/open-source/reporipple) · [PyPI](https://pypi.org/project/reporipple/) · [Source](https://github.com/adiarora06/RepoRipple) · [MCP setup](https://github.com/adiarora06/RepoRipple/blob/main/docs/mcp.md) · [v0.2.0](https://github.com/adiarora06/RepoRipple/releases/tag/v0.2.0)
+[Case study](https://www.adiarora.dev/open-source/reporipple) · [PyPI](https://pypi.org/project/reporipple/) · [Source](https://github.com/adiarora06/RepoRipple) · [MCP setup](https://github.com/adiarora06/RepoRipple/blob/main/docs/mcp.md) · [v0.3.0](https://github.com/adiarora06/RepoRipple/releases/tag/v0.3.0)
 
 ### [TokenOptimizer](https://github.com/adiarora06/TokenOptimizer)
 
