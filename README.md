@@ -1,6 +1,6 @@
 # Adi Arora
 
-AI engineer at Marriott International building reliable multi-agent systems, LLM infrastructure, and production AI applications. Computer Science + Economics at Virginia Tech.
+Part-time Associate Software Engineer on Marriott International's Platform Generative AI team, building reliable multi-agent systems, LLM infrastructure, and production AI applications. Data Science + Economics at Virginia Tech.
 
 `Python` · `FastAPI` · `TypeScript` · `React` · `Agent orchestration` · `LLM systems`
 
@@ -32,7 +32,7 @@ An investment-intelligence platform combining deterministic portfolio analytics 
 
 ## Open Source
 
-I have contributed 70+ merged pull requests to [KiroCrew](https://github.com/kirodotdev/KiroCrew), spanning security, platform reliability, accessibility, CI, and cross-platform tooling. [View my contributions](https://github.com/kirodotdev/KiroCrew/pulls?q=is%3Apr+author%3Aadiarora06).
+I have contributed 80 merged pull requests to [KiroCrew](https://github.com/kirodotdev/KiroCrew), spanning security, platform reliability, accessibility, CI, and cross-platform tooling. [View my contributions](https://github.com/kirodotdev/KiroCrew/pulls?q=is%3Apr+author%3Aadiarora06+is%3Amerged).
 
 ## Connect
 
