@@ -8,9 +8,9 @@ Part-time Associate Software Engineer on Marriott International's Platform Gener
 
 ### [RepoRipple](https://github.com/adiarora06/RepoRipple)
 
-A local-first change-impact analyzer that traces reverse dependencies across Python and modern JavaScript/TypeScript projects, including path aliases and monorepo workspaces.
+A local-first change-impact analyzer that traces reverse dependencies across Python and modern JavaScript/TypeScript projects, including configuration files, path aliases, and monorepo workspaces.
 
-[Case study](https://www.adiarora.dev/open-source/reporipple) · [PyPI](https://pypi.org/project/reporipple/) · [Source](https://github.com/adiarora06/RepoRipple) · [MCP setup](https://github.com/adiarora06/RepoRipple/blob/main/docs/mcp.md) · [v0.4.0](https://github.com/adiarora06/RepoRipple/releases/tag/v0.4.0)
+[Case study](https://www.adiarora.dev/open-source/reporipple) · [PyPI](https://pypi.org/project/reporipple/) · [Source](https://github.com/adiarora06/RepoRipple) · [MCP setup](https://github.com/adiarora06/RepoRipple/blob/v0.5.0/docs/mcp.md) · [v0.5.0](https://github.com/adiarora06/RepoRipple/releases/tag/v0.5.0)
 
 ### [TokenOptimizer](https://github.com/adiarora06/TokenOptimizer)
 
