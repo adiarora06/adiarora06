@@ -1,6 +1,6 @@
 # Adi Arora
 
-Part-time Associate Software Engineer on Marriott International's Platform Generative AI team, building reliable multi-agent systems, LLM infrastructure, and production AI applications. Data Science + Economics at Virginia Tech.
+Part-time Associate AI Engineer on Marriott International's Platform Generative AI team, building reliable multi-agent systems, LLM infrastructure, and production AI applications. Data Science + Economics at Virginia Tech.
 
 `Python` · `FastAPI` · `TypeScript` · `React` · `Agent orchestration` · `LLM systems`
 
